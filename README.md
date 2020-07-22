@@ -2,7 +2,6 @@ Para compilar, execute no terminal.
 
 >> gcc zero_crossings.c -o zero_crossings
 
-
 Para executar:
 
 >> ./zero_crossings teste.txt
